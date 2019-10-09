@@ -14,6 +14,6 @@ class HWMeidiator: NSObject {
 //        let targetClassString =
 //        let targetClass = NSClassFromString(target) as? UIViewController
 //        let tar = targetClass.alloc.ini
-        return Any;
+//        return Any;
     }
 }
